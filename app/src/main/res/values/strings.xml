@@ -10,6 +10,7 @@
     <string name="dialog_message">The selected row is: </string>
     <string name="dialog_yes">Yes</string>
     <string name="dialog_no">No</string>
+    <string name="enter_task">Please enter a task</string>
 </resources>
 
 
