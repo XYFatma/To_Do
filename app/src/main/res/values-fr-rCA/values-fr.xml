@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application ToDo</string>
+    <string name="button_add">Ajouter</string>
+    <string name="button_clear_all">Tout Effacer</string>
+    <string name="hint_type_here">Tapez ici</string>
+    <string name="switch_urgent">Urgent</string>
+    <string name="header_title">CST2335 Lab 4</string>
+    <string name="dialog_title">Voulez-vous supprimer ceci ?</string>
+    <string name="dialog_message">La ligne sélectionnée est : </string>
+    <string name="dialog_yes">Oui</string>
+    <string name="dialog_no">Non</string>
+    <string name="enter_task">Veuillez saisir une tâche</string>
+</resources>
+
